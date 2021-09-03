@@ -1,0 +1,2 @@
+module AnalisadorLinhaHelper
+end
